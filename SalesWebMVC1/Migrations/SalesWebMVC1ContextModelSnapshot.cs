@@ -3,7 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using SalesWebMVC1.Data;
+using SalesWebMVC1.Models;
 
 namespace SalesWebMVC1.Migrations
 {
